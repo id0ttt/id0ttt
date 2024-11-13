@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I'm a university student @ Monash University studying Electrical Engineering and Biomedical Science
+I've decided to expand my knowledge of this space outside the guidance of my University degree
+Come along and see what I've got to offer!
+Here is my University GitHub where you can see the work I've done for my Universtiy teams :)
+https://github.com/AKuswoyo
 <!--
 **id0ttt/id0ttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
